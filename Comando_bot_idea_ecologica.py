@@ -31,4 +31,4 @@ async def idea_ecologica(ctx, *choices: str):
     """Chooses between multiple choices."""
     await ctx.send(random.choice(ideas_ecologicas))
 
-bot.run('MTE5MjIzMDU2NTc4NTY0MTExMA.GUFibx.YeWVlQLSVTjGtvfzoV1urpGDM7Deg8PMXxmY1A')
+bot.run('TU TOKEN DE DISCORD')
